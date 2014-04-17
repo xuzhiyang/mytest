@@ -1,0 +1,56 @@
+0,Bip01
+1,Bip01 Footsteps
+2,Bip01 Pelvis
+3,Bip01 L Thigh
+4,Bip01 L Calf
+5,Bip01 L Foot
+6,Bip01 L Toe0
+7,Bip01 L Toe01
+8,Bip01 L Toe02
+9,
+10,Bip01 R Thigh
+11,Bip01 R Calf
+12,Bip01 R Foot
+13,Bip01 R Toe0
+14,Bip01 R Toe01
+15,Bip01 R Toe02
+16,
+17,Bip01 Spine
+18,Bip01 Spine1
+19,Bip01 Neck
+20,Bip01 Head
+21,
+22,Bip01 Ponytail1
+23,Bip01 Ponytail11
+24,
+25,Bip01 R Clavicle
+26,Bip01 R UpperArm
+27,Bip01 R Forearm
+28,Bip01 R Hand
+29,Bip01 R Finger0
+30,Bip01 R Finger01
+31,Bip01 R Finger02
+32,
+33,knife_gdf
+34,Bip01 L Clavicle
+35,Bip01 L UpperArm
+36,Bip01 L Forearm
+37,Bip01 L Hand
+38,Bip01 L Finger0
+39,Bip01 L Finger01
+40,Bip01 L Finger02
+41,
+42,hand_bofdgne01
+43,Bone01
+44,Bone02
+45,Bone03
+46,Bone04
+47,Bone05
+48,Bone06
+49,Bone07
+50,Bone08
+51,Sphere01
+52,
+53,
+54,
+55,
